@@ -31,7 +31,7 @@ public class OrderItem implements Serializable {
 		this.quantity = quantity;
 		this.price = price;
 	}
-
+	
 	public Product getProduct() {
 		return id.getProduct();
 	}
