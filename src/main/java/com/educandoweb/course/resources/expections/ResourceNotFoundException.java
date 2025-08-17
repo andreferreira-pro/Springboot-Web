@@ -1,4 +1,4 @@
-package com.educandoweb.course.services.exceptions;
+package com.educandoweb.course.resources.expections;
 
 public class ResourceNotFoundException extends RuntimeException{
 
